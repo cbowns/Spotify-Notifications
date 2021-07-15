@@ -1,3 +1,7 @@
+# Note!
+
+This is a repo clone of https://src.doom.fm/spotify-notifications/macOS on GitHub because I am lazy and wanted it here for forks and PRs.
+
 ## Spotify Notifications
 
 [![Build Status](https://travis-ci.org/citruspi/Spotify-Notifications.png?branch=master)](https://travis-ci.org/citruspi/Spotify-Notifications)
